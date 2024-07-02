@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://code-and-chilll.github.io/sitemap.xml
